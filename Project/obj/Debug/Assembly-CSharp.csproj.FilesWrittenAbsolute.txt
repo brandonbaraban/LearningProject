@@ -1,0 +1,17 @@
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/UnityEngine.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/UnityEditor.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/Mono.Cecil.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/Unity.DataContract.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/brandonbaraban/Documents/UnityProjects/Project/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/obj/Debug/Assembly-CSharp.dll
+/Users/brandonbaraban/Documents/UnityProjects/Project/obj/Debug/Assembly-CSharp.dll.mdb
