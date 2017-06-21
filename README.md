@@ -1,2 +1,2 @@
-# LearningProject
+# UnityLearningProject
 Unity Project
