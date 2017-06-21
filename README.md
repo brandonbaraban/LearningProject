@@ -1,2 +1,2 @@
 # UnityLearningProject
-Unity Project
+An explorable, randomly generated world.
